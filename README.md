@@ -8,8 +8,6 @@ Validasi input lengkap
 
 Terhubung ke database MySQL
 
-Penanganan error: 422, 404, 500
-
 📌 Validasi Input
 
 | Field          | Tipe    | Validasi                    |
